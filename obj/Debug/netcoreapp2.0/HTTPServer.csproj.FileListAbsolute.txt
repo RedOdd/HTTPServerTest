@@ -1,0 +1,11 @@
+C:\Projects\httest\bin\Debug\netcoreapp2.0\HTTPServer.deps.json
+C:\Projects\httest\bin\Debug\netcoreapp2.0\HTTPServer.runtimeconfig.json
+C:\Projects\httest\bin\Debug\netcoreapp2.0\HTTPServer.runtimeconfig.dev.json
+C:\Projects\httest\bin\Debug\netcoreapp2.0\HTTPServer.dll
+C:\Projects\httest\bin\Debug\netcoreapp2.0\HTTPServer.pdb
+C:\Projects\httest\obj\Debug\netcoreapp2.0\HTTPServer.csprojResolveAssemblyReference.cache
+C:\Projects\httest\obj\Debug\netcoreapp2.0\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Projects\httest\obj\Debug\netcoreapp2.0\HTTPServer.AssemblyInfoInputs.cache
+C:\Projects\httest\obj\Debug\netcoreapp2.0\HTTPServer.AssemblyInfo.cs
+C:\Projects\httest\obj\Debug\netcoreapp2.0\HTTPServer.dll
+C:\Projects\httest\obj\Debug\netcoreapp2.0\HTTPServer.pdb
